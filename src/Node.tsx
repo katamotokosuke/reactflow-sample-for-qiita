@@ -1,4 +1,4 @@
-import {Handle, Node, NodeProps, Position} from 'reactflow';
+import {Connection, Handle, Node, NodeProps, Position} from 'reactflow';
 
 export type NodeData = {
     label: string;
